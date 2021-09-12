@@ -1,0 +1,16 @@
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\CovidVaccination.csprojAssemblyReference.cache
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\MainWindow.g.cs
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\App.g.cs
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\CovidVaccination_MarkupCompile.cache
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\CovidVaccination_MarkupCompile.lref
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\bin\Debug\CovidVaccination.exe.config
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\bin\Debug\CovidVaccination.exe
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\bin\Debug\CovidVaccination.pdb
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\MainWindow.baml
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\CovidVaccination.g.resources
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\CovidVaccination.Properties.Resources.resources
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\CovidVaccination.csproj.GenerateResource.cache
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\CovidVaccination.csproj.CoreCompileInputs.cache
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\CovidVaccination.exe
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\CovidVaccination.pdb
+C:\Users\irock\source\repos\CovidVaccination\CovidVaccination\obj\Debug\GeneratedInternalTypeHelper.g.cs
